@@ -1,5 +1,6 @@
-import cv2
+#import cv2
 import vtk
+
 
 from vtk.util.colors import tomato
 
